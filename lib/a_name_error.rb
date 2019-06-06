@@ -1,4 +1,4 @@
-let msg = "hello world"
+puts "hello world"
 
-return msg
+
 hello_world
